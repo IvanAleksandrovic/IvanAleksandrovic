@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IvanAleksandrovic
+- 👋 Hi, I’m @Strygin Ivan
 - 👀 I’m interested in SQL, Python
 - 🌱 I’m currently learning SQL
 <!---
